@@ -6,7 +6,7 @@ Este projeto é um site institucional desenvolvido para uma empresa de telecomun
 
 React – Utilizado para construção de componentes dinâmicos e gerenciamento de interface.
 
-Vue.js – Aplicado em partes estratégicas do projeto para otimização e modularização da aplicação.
+TypeScript
 
 HTML5
 
@@ -31,3 +31,4 @@ Componentização para melhor manutenção e escalabilidade
 💡 Objetivo do Projeto
 
 Desenvolver uma aplicação web rápida, moderna e intuitiva, capaz de transmitir credibilidade e facilitar a captação de novos clientes para a empresa de telecomunicações.
+
